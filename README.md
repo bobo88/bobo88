@@ -1,7 +1,7 @@
 <div align="center">
   <div>
     <a href="https://fe.ycy88.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);乾坤未定，你我皆是黑马!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0C5CFF&random=false&width=435&lines=console.log(%22Hello%2C%20World%22);乾坤未定，你我皆是黑马!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 </div>
