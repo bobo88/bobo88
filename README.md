@@ -35,3 +35,5 @@
 - [💖 技术之外 💖](https://fe.ycy88.com/beyond-tech/index)
 - ......
 
+![An image](https://fe.ycy88.com/images/mp/ycy88-pb.jpg)
+
